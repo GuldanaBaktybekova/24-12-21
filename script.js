@@ -1,0 +1,61 @@
+// var message = prompt("What is your message");
+// if (message === "") {
+//   message = "no message";
+// 
+// alert(message);
+
+
+// var year  = prompt("What year Kyrgyzstan gained independence?");
+// if (year === "1991") {
+//   alert("correct!");
+// }
+// else {
+//   alert("Incorrect!");
+// }
+
+// var example1 = "200" + 200; 
+// var example2 = "10" + "10"
+
+// console.log(example2);
+
+
+// var age = prompt("How old are you?");
+// var year = 2021 - age;
+// console.log(year);
+
+
+// var year = prompt("What year Kyrgyzstan gained independence?");
+// if(year > "1991") {
+//   alert("This year is after independence year.");
+// }
+// else if (year ===  "1991") {
+//   alert("You got it!");
+// }
+
+
+// else {
+//   alert("This year is before independence year.");
+// }
+
+var city = prompt("В каком городе вы живете?");
+if (city === "Каракол") {
+  alert("Вы живете в Иссык-Кульской области.");
+}
+else if (city === "Бишкек") {
+  alert("Вы живете в Чуйской области.")
+}
+else if (city === "Талас") {
+  alert("Вы живете в Таласской области.")
+}
+else if (city === "Баткен") {
+  alert("Вы живете в Баткенской области.")
+}
+else if (city === "Ош") {
+  alert("Вы живете в Ошской области.")
+}
+else if (city === "Нарын") {
+  alert("Вы живете в Нарынской области.")
+}
+else if (city === "Джалал-Абад") {
+  alert("Вы живете в Джалал-Абадской области.")
+}
