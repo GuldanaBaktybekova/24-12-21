@@ -99,10 +99,34 @@
 // }
 
 
+// my examples
+
 // var a = 100;
 // var b = 10;
 
 //  while (a > b) {
 //    a = a - 5;
 //    console.log(a);
+//  }
+
+
+// for (i=10; i<30; i=i+5) {
+//   if (i===15);
+//   console.log(i);
+//   }
+
+// if (confirm("Вам нравится этот сайт?")) {
+ 
+//     alert("Спасибо!")
+ 
+//   } else {
+//     alert("Вы нажали кнопку отмена")
+  
+//   }
+   
+//  var a = 55;
+//  var b = 85;
+//  while (a < b) {
+//    b = b - 5;
+//    console.log(b);
 //  }
